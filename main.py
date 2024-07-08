@@ -1,6 +1,6 @@
 # todo make first part of the snake game
 
-from turtle import Turtle, Screen
+from turtle import Screen
 from snake import Snake
 import time
 
